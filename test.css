@@ -1,18 +1,19 @@
 body {
-  width: 100vw;
-  height: 100vh;
-  background-color: white;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0;
-  padding: 0;
-  align-items: center;
-  justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    background-color: #602f6b;
 }
 
 .container1 {
- height: 75%;
- width: 50%;
- border: .1em solid black;
+    height: 15%;
+    width: 50%;
+    border: .1em solid black;
+    overflow: scroll;
+    background-color: white;
 }
-
