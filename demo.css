@@ -33,6 +33,7 @@ body{
 	width: 90%;
 	background-color: #e3e4d4;
 	overflow: scroll;
+	overflow-x: hidden;
 }
 	
 .low65{
