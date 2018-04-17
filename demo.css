@@ -42,7 +42,11 @@ body{
 	width: 100vw;
 	background-color: #000eff;
 }
-	
+
+.container1 {
+	height: 100%;
+	width: 100%;
+}
 .widgits{
 	height: 95%;
 	width: 29%;
